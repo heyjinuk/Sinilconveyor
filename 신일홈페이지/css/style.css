@@ -40,7 +40,7 @@
 .products h2 {font-size: 26px; text-align: center; padding-bottom: 30px;}
 /*.products p {color: #666; margin: 20px 0 36px; text-align: center;}*/
 .products .products_box {overflow: hidden; }
-.products .products_box .column {float: left; width: 320px; height: 250px;  margin:0 10px 15px 10px; border: 1px solid black}
+.products .products_box .column {float: left; width: 320px; height: 250px;  margin:0 5px 25px 5px; border: 1px solid black}
 .products .products_box .column a:hover {text-decoration: none;}
 .products .products_box .column h3 {font-size: 16px; margin-top: 40px;}
 .products .products_box .column a:hover h3 {text-decoration: underline; color:#222;}
